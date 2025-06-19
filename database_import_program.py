@@ -89,7 +89,6 @@ def clean_and_import(csv_path, table_name):
 
     conn.commit()
     conn.close()
-    print(f"Imported cleaned data from '{csv_path}' into '{table_name}'.")
 
 # CSVs
 clean_and_import("batting_stats.csv", "batting_stats")

@@ -9,7 +9,6 @@ def get_conn():
         print(f"Error connecting to DB: {e}")
         return None
 
-
 def top_batting_teams():
     conn = get_conn()
     if not conn:
@@ -17,9 +16,10 @@ def top_batting_teams():
     try:
         cursor = conn.cursor()
         cursor.execute('''
-            SELECT team, COUNT(*) as leader_count
-            FROM batting_stats
-            GROUP BY team
+            SELECT t.name, COUNT(*) as leader_count
+            FROM batting_stats b
+            JOIN teams t ON b.team_id = t.id
+            GROUP BY t.name
             ORDER BY leader_count DESC
             LIMIT 10
         ''')
@@ -41,9 +41,10 @@ def top_pitching_teams():
     try:
         cursor = conn.cursor()
         cursor.execute('''
-            SELECT team, COUNT(*) as leader_count
-            FROM pitching_stats
-            GROUP BY team
+            SELECT t.name, COUNT(*) as leader_count
+            FROM pitching_stats p
+            JOIN teams t ON p.team_id = t.id
+            GROUP BY t.name
             ORDER BY leader_count DESC
             LIMIT 10
         ''')
@@ -79,13 +80,15 @@ def leaders_by_year():
     try:
         cursor = conn.cursor()
         cursor.execute('''
-            SELECT 'Batting' AS role, stat, player, team, value
-            FROM batting_stats
-            WHERE year = ?
+            SELECT 'Batting' AS role, b.stat, b.name, t.name AS team, b.value
+            FROM batting_stats b
+            JOIN teams t ON b.team_id = t.id
+            WHERE b.year = ?
             UNION ALL
-            SELECT 'Pitching' AS role, stat, player, team, value
-            FROM pitching_stats
-            WHERE year = ?
+            SELECT 'Pitching' AS role, p.stat, p.name, t.name AS team, p.value
+            FROM pitching_stats p
+            JOIN teams t ON p.team_id = t.id
+            WHERE p.year = ?
             ORDER BY role, stat
         ''', (year, year))
         results = cursor.fetchall()
@@ -105,29 +108,59 @@ def leaders_by_year():
     finally:
         conn.close()
 
-def top_5_hitting_players():
+def top_players_by_stat():
+    stat_options = {
+        "1": ("batting", "Home Runs"),
+        "2": ("batting", "Base on Balls"),
+        "3": ("pitching", "Wins"),
+        "4": ("pitching", "ERA")
+    }
+
+    print("\nSelect a stat to see top 5 players:")
+    print("1. Home Runs (Batting)")
+    print("2. Base on Balls (Batting)")
+    print("3. Wins (Pitching)")
+    print("4. ERA (Pitching)")
+
+    while True:
+        choice = input("Enter your choice (1-4), or 'exit' to cancel: ").strip()
+        if choice.lower() == 'exit':
+            print("Cancelled.")
+            return
+        if choice in stat_options:
+            role, stat = stat_options[choice]
+            break
+        print("Invalid choice. Please enter a number from 1 to 4.")
+
+    table = "batting_stats" if role == "batting" else "pitching_stats"
+
     conn = get_conn()
     if not conn:
         return
+
     try:
         cursor = conn.cursor()
-        cursor.execute('''
-            SELECT player, MAX(value) as max_stat_value, stat, year, team
-            FROM batting_stats
-            GROUP BY player
-            ORDER BY max_stat_value DESC
+        cursor.execute(f'''
+            SELECT name, value
+            FROM {table}
+            WHERE stat = ?
+            ORDER BY value DESC
             LIMIT 5
-        ''')
+        ''', (stat,))
         results = cursor.fetchall()
-        print("\nTop 5 players of all time based on highest hitting stat:")
-        print(f"{'Player':<25}{'Stat':<20}{'Value':<10}{'Year':<6}{'Team'}")
-        print("-" * 75)
-        for player, value, stat, year, team in results:
-            print(f"{player:<25}{stat:<20}{value:<10}{year:<6}{team}")
+
+        print(f"\nTop 5 players by '{stat}' ({role.title()}):")
+        print(f"{'Player':<30}{'Value'}")
+        print("-" * 40)
+        for player, value in results:
+            print(f"{player:<30}{value}")
+
     except sqlite3.Error as e:
-        print(f"DB query error in top_5_hitting_players: {e}")
+        print(f"DB query error in top_players_by_stat: {e}")
     finally:
         conn.close()
+
+
 
 def menu():
     while True:
@@ -135,7 +168,7 @@ def menu():
         print("1. Display top 10 teams with most batting leaders")
         print("2. Display top 10 teams with most pitching leaders")
         print("3. Select year to see batting and pitching leaders")
-        print("4. Display top 5 all-time batting leaders")
+        print("4. Display top 5 players by performance metric ")
         print("5. Exit")
 
         choice = input("Enter your choice (1-5): ").strip()
@@ -147,7 +180,7 @@ def menu():
         elif choice == '3':
             leaders_by_year()
         elif choice == '4':
-            top_5_hitting_players()           
+            top_players_by_stat()
         elif choice == '5':
             print("Goodbye!")
             break
