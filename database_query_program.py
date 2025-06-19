@@ -141,10 +141,13 @@ def top_players_by_stat():
     try:
         cursor = conn.cursor()
         cursor.execute(f'''
-            SELECT name, value
+            SELECT
+                name,
+                MAX(value) AS max_value
             FROM {table}
             WHERE stat = ?
-            ORDER BY value DESC
+            GROUP BY name
+            ORDER BY max_value DESC
             LIMIT 5
         ''', (stat,))
         results = cursor.fetchall()
