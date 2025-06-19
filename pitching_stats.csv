@@ -1,0 +1,251 @@
+Year,Stat,Player,Team,Value
+1901,Wins,Cy Young,Boston,33
+1901,ERA,Cy Young,Boston,1.62
+1902,Wins,Cy Young,Boston,32
+1902,ERA,Ed Siever,Detroit,1.91
+1903,Wins,Cy Young,Boston,28
+1903,ERA,Earl Moore,Cleveland,1.74
+1904,Wins,Jack Chesbro,New York,41
+1904,ERA,Addie Joss,Cleveland,1.59
+1905,Wins,Rube Waddell,Philadelphia,27
+1905,ERA,Rube Waddell,Philadelphia,1.48
+1906,Wins,Al Orth,New York,27
+1906,ERA,Doc White,Chicago,1.52
+1907,Wins,Addie Joss,Cleveland,27
+1907,ERA,Ed Walsh,Chicago,1.60
+1908,Wins,Ed Walsh,Chicago,40
+1908,ERA,Addie Joss,Cleveland,1.16
+1909,Wins,George Mullin,Detroit,29
+1909,ERA,Harry Krause,Philadelphia,1.39
+1910,Wins,Jack Coombs,Philadelphia,31
+1910,ERA,Ed Walsh,Chicago,1.27
+1911,Wins,Jack Coombs,Philadelphia,28
+1911,ERA,Vean Gregg,Cleveland,1.80
+1912,Wins,Smoky Joe Wood,Boston,34
+1912,ERA,Walter Johnson,Washington,1.39
+1913,Wins,Walter Johnson,Washington,36
+1913,ERA,Walter Johnson,Washington,1.14
+1914,Wins,Walter Johnson,Washington,28
+1914,ERA,Dutch Leonard,Boston,0.96
+1915,Wins,Walter Johnson,Washington,27
+1915,ERA,Smoky Joe Wood,Boston,1.49
+1916,Wins,Walter Johnson,Washington,25
+1916,ERA,Babe Ruth,Boston,1.75
+1917,Wins,Eddie Cicotte,Chicago,28
+1917,ERA,Eddie Cicotte,Chicago,1.53
+1918,Wins,Walter Johnson,Washington,23
+1918,ERA,Walter Johnson,Washington,1.27
+1919,Wins,Eddie Cicotte,Chicago,29
+1919,ERA,Walter Johnson,Washington,1.49
+1920,Wins,Jim Bagby,Cleveland,31
+1920,ERA,Bob Shawkey,New York,2.45
+1921,Wins,Carl Mays,New York,27
+1921,ERA,Red Faber,Chicago,2.48
+1922,Wins,Eddie Rommel,Philadelphia,27
+1922,ERA,Red Faber,Chicago,2.81
+1923,Wins,George Uhle,Cleveland,26
+1923,ERA,Stan Coveleski,Cleveland,2.76
+1924,Wins,Walter Johnson,Washington,23
+1924,ERA,Walter Johnson,Washington,2.72
+1925,Wins,Ted Lyons,Chicago,21
+1925,ERA,Stan Coveleski,Washington,2.84
+1926,Wins,George Uhle,Cleveland,27
+1926,ERA,Lefty Grove,Philadelphia,2.51
+1927,Wins,Waite Hoyt,New York,22
+1927,ERA,Wilcy Moore,New York,2.28
+1928,Wins,Lefty Grove,Philadelphia,24
+1928,ERA,Garland Braxton,Washington,2.51
+1929,Wins,George Earnshaw,Philadelphia,24
+1929,ERA,Lefty Grove,Philadelphia,2.81
+1930,Wins,Lefty Grove,Philadelphia,28
+1930,ERA,Lefty Grove,Philadelphia,2.54
+1931,Wins,Lefty Grove,Philadelphia,31
+1931,ERA,Lefty Grove,Philadelphia,2.06
+1932,Wins,Alvin Crowder,Washington,26
+1932,ERA,Lefty Grove,Philadelphia,2.84
+1933,Wins,Lefty Grove,Philadelphia,24
+1933,ERA,Monte Pearson,Cleveland,2.33
+1934,Wins,Lefty Gomez,New York,26
+1934,ERA,Lefty Gomez,New York,2.33
+1935,Wins,Wes Ferrell,Boston,25
+1935,ERA,Lefty Grove,Boston,2.70
+1936,Wins,Tommy Bridges,Detroit,23
+1936,ERA,Lefty Grove,Philadelphia,2.81
+1937,Wins,Lefty Gomez,New York,21
+1937,ERA,Lefty Gomez,New York,2.33
+1938,Wins,Red Ruffing,New York,21
+1938,ERA,Lefty Grove,Boston,3.08
+1939,Wins,Bob Feller,Cleveland,24
+1939,ERA,Lefty Grove,Boston,2.54
+1940,Wins,Bob Feller,Cleveland,27
+1940,ERA,Bob Feller,Cleveland,2.61
+1941,Wins,Bob Feller,Cleveland,25
+1941,ERA,Thornton Lee,Chicago,2.37
+1942,Wins,Tex Hughson,Boston,22
+1942,ERA,Ted Lyons,Chicago,2.10
+1943,Wins,Spud Chandler,New York,20
+1943,ERA,Spud Chandler,New York,1.64
+1944,Wins,Hal Newhouser,Detroit,29
+1944,ERA,Dizzy Trout,Detroit,2.12
+1945,Wins,Hal Newhouser,Detroit,25
+1945,ERA,Hal Newhouser,Detroit,1.81
+1946,Wins,Bob Feller,Cleveland,26
+1946,ERA,Hal Newhouser,Detroit,1.94
+1947,Wins,Bob Feller,Cleveland,20
+1947,ERA,Joe Haynes,Chicago,2.42
+1948,Wins,Hal Newhouser,Detroit,21
+1948,ERA,Gene Bearden,Cleveland,2.43
+1949,Wins,Mel Parnell,Boston,25
+1949,ERA,Mike Garcia,Cleveland,2.36
+1950,Wins,Bob Lemon,Cleveland,23
+1950,ERA,Early Wynn,Cleveland,3.20
+1951,Wins,Bob Feller,Cleveland,22
+1951,ERA,Saul Rogovin,Detroit,2.78
+1952,Wins,Bobby Shantz,Philadelphia,24
+1952,ERA,Allie Reynolds,New York,2.06
+1953,Wins,Bob Porterfield,Washington,22
+1953,ERA,Ed Lopat,New York,2.42
+1954,Wins,Bob Lemon,Cleveland,23
+1954,ERA,Mike Garcia,Cleveland,2.64
+1955,Wins,Whitey Ford,New York,18
+1955,ERA,Billy Pierce,Chicago,1.97
+1956,Wins,Frank Lary,Detroit,21
+1956,ERA,Whitey Ford,New York,2.47
+1957,Wins,Jim Bunning,Detroit,20
+1957,ERA,Bobby Shantz,New York,2.45
+1958,Wins,Bob Turley,New York,21
+1958,ERA,Whitey Ford,New York,2.01
+1959,Wins,Early Wynn,Chicago,22
+1959,ERA,Hoyt Wilhelm,Baltimore,2.19
+1960,Wins,Chuck Estrada,Baltimore,18
+1960,ERA,Frank Baumann,Chicago,2.67
+1961,Wins,Whitey Ford,New York,25
+1961,ERA,Dick Donovan,Washington,2.40
+1962,Wins,Ralph Terry,New York,23
+1962,ERA,Hank Aguirre,Detroit,2.21
+1963,Wins,Whitey Ford,New York,24
+1963,ERA,Gary Peters,Chicago,2.33
+1964,Wins,Dean Chance,Los Angeles,20
+1964,ERA,Dean Chance,Los Angeles,1.65
+1965,Wins,Mudcat Grant,Minnesota,21
+1965,ERA,Sam McDowell,Cleveland,2.18
+1966,Wins,Jim Kaat,Minnesota,25
+1966,ERA,Gary Peters,Chicago,1.98
+1967,Wins,Jim Lonborg,Boston,22
+1967,ERA,Joe Horlen,Chicago,2.06
+1968,Wins,Denny McLain,Detroit,31
+1968,ERA,Luis Tiant,Cleveland,1.60
+1969,Wins,Denny McLain,Detroit,24
+1969,ERA,Dick Bosman,Washington,2.19
+1970,Wins,Mike Cuellar,Baltimore,24
+1970,ERA,Diego Segui,Oakland,2.56
+1971,Wins,Mickey Lolich,Detroit,25
+1971,ERA,Vida Blue,Oakland,1.82
+1972,Wins,Gaylord Perry,Cleveland,24
+1972,ERA,Luis Tiant,Boston,1.91
+1973,Wins,Wilbur Wood,Chicago,24
+1973,ERA,Jim Palmer,Baltimore,2.40
+1974,Wins,Catfish Hunter,Oakland,25
+1974,ERA,Catfish Hunter,Oakland,2.49
+1975,Wins,Catfish Hunter,New York,23
+1975,ERA,Jim Palmer,Baltimore,2.09
+1976,Wins,Jim Palmer,Baltimore,22
+1976,ERA,Mark Fidrych,Detroit,2.34
+1977,Wins,Dave Goltz,Minnesota,20
+1977,ERA,Frank Tanana,California,2.54
+1978,Wins,Ron Guidry,New York,25
+1978,ERA,Ron Guidry,New York,1.74
+1979,Wins,Mike Flanagan,Baltimore,23
+1979,ERA,Ron Guidry,New York,2.78
+1980,Wins,Steve Stone,Baltimore,25
+1980,ERA,Rudy May,New York,2.46
+1981,Wins,Dennis Martinez,Baltimore,14
+1981,ERA,Steve McCatty,Oakland,2.33
+1982,Wins,La Marr Hoyt,Chicago,19
+1982,ERA,Rick Sutcliffe,Cleveland,2.96
+1983,Wins,La Marr Hoyt,Chicago,24
+1983,ERA,Rick Honeycutt,Texas,2.42
+1984,Wins,Mike Boddicker,Baltimore,20
+1984,ERA,Mike Boddicker,Baltimore,2.79
+1985,Wins,Ron Guidry,New York,22
+1985,ERA,Dave Stieb,Toronto,2.48
+1986,Wins,Roger Clemens,Boston,24
+1986,ERA,Roger Clemens,Boston,2.48
+1987,Wins,Roger Clemens,Boston,20
+1987,ERA,Jimmy Key,Toronto,2.76
+1988,Wins,Frank Viola,Minnesota,24
+1988,ERA,Allan Anderson,Minnesota,2.45
+1989,Wins,Bret Saberhagen,Kansas City,23
+1989,ERA,Bret Saberhagen,Kansas City,2.16
+1990,Wins,Bob Welch,Oakland,27
+1990,ERA,Roger Clemens,Boston,1.93
+1991,Wins,Scott Erickson,Minnesota,20
+1991,ERA,Roger Clemens,Boston,2.62
+1992,Wins,Kevin Brown,Texas,21
+1992,ERA,Roger Clemens,Boston,2.41
+1993,Wins,Jack McDowell,Chicago,22
+1993,ERA,Kevin Appier,Kansas City,2.56
+1994,Wins,Jimmy Key,New York,17
+1994,ERA,Steve Ontiveros,Oakland,2.65
+1995,Wins,Mike Mussina,Baltimore,19
+1995,ERA,Randy Johnson,Seattle,2.48
+1996,Wins,Andy Pettitte,New York,21
+1996,ERA,Juan Guzman,Toronto,2.93
+1997,Wins,Roger Clemens,Toronto,21
+1997,ERA,Roger Clemens,Toronto,2.05
+1998,Wins,Roger Clemens,Toronto,20
+1998,ERA,Roger Clemens,Toronto,2.65
+1999,Wins,Pedro Martinez,Boston,23
+1999,ERA,Pedro Martinez,Boston,2.07
+2000,Wins,Tim Hudson,Oakland,20
+2000,ERA,Pedro Martinez,Boston,1.74
+2001,Wins,Mark Mulder,Oakland,21
+2001,ERA,Freddy Garcia,Seattle,3.05
+2002,Wins,Barry Zito,Oakland,23
+2002,ERA,Pedro Martinez,Boston,2.26
+2003,Wins,Roy Halladay,Toronto,22
+2003,ERA,Pedro Martinez,Boston,2.22
+2004,Wins,Curt Schilling,Boston,21
+2004,ERA,Johan Santana,Minnesota,2.61
+2005,Wins,Bartolo Colon,Los Angeles,21
+2005,ERA,Kevin Millwood,Cleveland,2.86
+2006,Wins,Johan Santana,Minnesota,19
+2006,ERA,Johan Santana,Minnesota,2.77
+2007,Wins,Josh Beckett,Boston,20
+2007,ERA,John Lackey,Los Angeles,3.01
+2008,Wins,Cliff Lee,Cleveland,22
+2008,ERA,Cliff Lee,Cleveland,2.54
+2009,Wins,Felix Hernandez,Seattle,19
+2009,ERA,Zack Greinke,Kansas City,2.16
+2010,Wins,C.C. Sabathia,New York,21
+2010,ERA,Felix Hernandez,Seattle,2.27
+2011,Wins,Justin Verlander,Detroit,24
+2011,ERA,Justin Verlander,Detroit,2.40
+2012,Wins,David Price,Tampa Bay,20
+2012,ERA,David Price,Tampa Bay,2.56
+2013,Wins,Max Scherzer,Detroit,21
+2013,ERA,Anibal Sanchez,Detroit,2.57
+2014,Wins,Corey Kluber,Texas,18
+2014,ERA,Felix Hernandez,Seattle,2.14
+2015,Wins,Dallas Keuchel,Houston,20
+2015,ERA,David Price,Detroit / Toronto,2.45
+2016,Wins,Rick Porcello,Boston,22
+2016,ERA,Aaron Sanchez,Toronto,3.00
+2017,Wins,Carlos Carrasco,Cleveland Indians,18
+2017,ERA,Corey Kluber,Cleveland Indians,2.25
+2018,Wins,Blake Snell,Tampa Bay Rays,21
+2018,ERA,Blake Snell,Tampa Bay Rays,1.89
+2019,Wins,Justin Verlander,Houston Astros,21
+2019,ERA,Gerrit Cole,Houston Astros,2.50
+2020,Wins,Shane Bieber,Cleveland Indians,8
+2020,ERA,Shane Bieber,Cleveland Indians,1.63
+2021,Wins,Gerrit Cole,New York Yankees,16
+2021,ERA,Robbie Ray,Toronto Blue Jays,2.84
+2022,Wins,Justin Verlander,Houston Astros,18
+2022,ERA,Justin Verlander,Houston Astros,1.75
+2023,Wins,Chris Bassitt,Toronto Blue Jays,16
+2023,ERA,Gerrit Cole,New York Yankees,2.63
+2024,Wins,Tarik Skubal,Detroit,18
+2024,ERA,Tarik Skubal,Detroit,2.39
+2025,Wins,To Be Determined,--,--
+2025,ERA,To Be Determined,--,--

@@ -1,0 +1,248 @@
+Year,Stat,Player,Team,Value
+1901,Base on Balls,Dummy Hoy,Chicago,86
+1901,Home Runs,Nap Lajoie,Philadelphia,14
+1902,Base on Balls,Topsy Hartsel,Philadelphia,87
+1902,Home Runs,Socks Seybold,Philadelphia,16
+1903,Base on Balls,Jimmy Barrett,Detroit,74
+1903,Home Runs,Buck Freeman,Boston,13
+1904,Base on Balls,Jimmy Barrett,Detroit,79
+1904,Home Runs,Harry Davis,Philadelphia,10
+1905,Base on Balls,Topsy Hartsel,Philadelphia,121
+1905,Home Runs,Harry Davis,Philadelphia,8
+1906,Base on Balls,Topsy Hartsel,Philadelphia,88
+1906,Home Runs,Harry Davis,Philadelphia,12
+1907,Base on Balls,Topsy Hartsel,Philadelphia,106
+1907,Home Runs,Harry Davis,Philadelphia,8
+1908,Base on Balls,Topsy Hartsel,Philadelphia,93
+1908,Home Runs,Sam Crawford,Detroit,7
+1909,Base on Balls,Donie Bush,Detroit,88
+1909,Home Runs,Ty Cobb,Detroit,9
+1910,Base on Balls,Donie Bush,Detroit,78
+1910,Home Runs,Jake Stahl,Boston,10
+1911,Base on Balls,Donie Bush,Detroit,98
+1911,Home Runs,Frank Baker,Philadelphia,11
+1912,Base on Balls,Donie Bush,Detroit,117
+1912,Home Runs,Frank Baker,Philadelphia,10
+1913,Base on Balls,Burt Shotton,St. Louis,99
+1913,Home Runs,Frank Baker,Philadelphia,12
+1914,Base on Balls,Donie Bush,Detroit,112
+1914,Home Runs,Frank Baker,Philadelphia,9
+1915,Base on Balls,Eddie Collins,Chicago,119
+1915,Home Runs,Braggo Roth,Chicago,7
+1916,Base on Balls,Burt Shotton,St. Louis,110
+1916,Home Runs,Wally Pipp,New York,12
+1917,Base on Balls,Jack Graney,Cleveland,94
+1917,Home Runs,Wally Pipp,New York,9
+1918,Base on Balls,Ray Chapman,Cleveland,84
+1918,Home Runs,Babe Ruth,Boston,11
+1919,Base on Balls,Jack Graney,Cleveland,105
+1919,Home Runs,Babe Ruth,Boston,29
+1920,Base on Balls,Babe Ruth,New York,150
+1920,Home Runs,Babe Ruth,New York,54
+1921,Base on Balls,Babe Ruth,New York,145
+1921,Home Runs,Babe Ruth,New York,59
+1922,Base on Balls,Whitey Witt,New York,89
+1922,Home Runs,Ken Williams,St. Louis,39
+1923,Base on Balls,Babe Ruth,New York,170
+1923,Home Runs,Babe Ruth,New York,41
+1924,Base on Balls,Babe Ruth,New York,142
+1924,Home Runs,Babe Ruth,New York,46
+1925,Home Runs,Bob Meusel,New York,33
+1926,Base on Balls,Babe Ruth,New York,144
+1926,Home Runs,Babe Ruth,New York,47
+1927,Base on Balls,Babe Ruth,New York,137
+1927,Home Runs,Babe Ruth,New York,60
+1928,Base on Balls,Babe Ruth,New York,137
+1928,Home Runs,Babe Ruth,New York,54
+1929,Base on Balls,Max Bishop,Philadelphia,128
+1929,Home Runs,Babe Ruth,New York,46
+1930,Base on Balls,Babe Ruth,New York,136
+1930,Home Runs,Babe Ruth,New York,49
+1931,Base on Balls,Babe Ruth,New York,128
+1931,Home Runs,Lou Gehrig,New York,46
+1932,Base on Balls,Babe Ruth,New York,130
+1932,Home Runs,Jimmie Foxx,Philadelphia,58
+1933,Base on Balls,Babe Ruth,New York,114
+1933,Home Runs,Jimmie Foxx,Philadelphia,48
+1934,Base on Balls,Jimmie Foxx,Philadelphia,111
+1934,Home Runs,Lou Gehrig,New York,44
+1935,Base on Balls,Lou Gehrig,New York,132
+1935,Home Runs,Jimmie Foxx,Philadelphia,36
+1936,Base on Balls,Lou Gehrig,New York,130
+1936,Home Runs,Lou Gehrig,New York,49
+1937,Base on Balls,Lou Gehrig,New York,127
+1937,Home Runs,Joe DiMaggio,New York,46
+1938,Base on Balls,Jimmie Foxx,Boston,119
+1938,Home Runs,Hank Greenberg,Detroit,58
+1939,Base on Balls,Harlond Clift,St. Louis,111
+1939,Home Runs,Jimmie Foxx,Boston,35
+1940,Base on Balls,Charlie Keller,New York,106
+1940,Home Runs,Hank Greenberg,Detroit,41
+1941,Base on Balls,Ted Williams,Boston,147
+1941,Home Runs,Ted Williams,Boston,37
+1942,Base on Balls,Ted Williams,Boston,145
+1942,Home Runs,Ted Williams,Boston,36
+1943,Base on Balls,Charlie Keller,New York,106
+1943,Home Runs,Rudy York,Detroit,34
+1944,Base on Balls,Nick Etten,New York,97
+1944,Home Runs,Nick Etten,New York,22
+1945,Base on Balls,Roy Cullenbine,Cleveland,113
+1945,Home Runs,Vern Stephens,St. Louis,24
+1946,Base on Balls,Ted Williams,Boston,156
+1946,Home Runs,Hank Greenberg,Detroit,44
+1947,Base on Balls,Ted Williams,Boston,162
+1947,Home Runs,Ted Williams,Boston,32
+1948,Base on Balls,Ted Williams,Boston,126
+1948,Home Runs,Joe DiMaggio,New York,39
+1949,Base on Balls,Ted Williams,Boston,162
+1949,Home Runs,Ted Williams,Boston,43
+1950,Base on Balls,Eddie Yost,Washington,141
+1950,Home Runs,Al Rosen,Cleveland,37
+1951,Base on Balls,Ted Williams,Boston,144
+1951,Home Runs,Gus Zernial,Chicago,33
+1952,Base on Balls,Eddie Yost,Washington,129
+1952,Home Runs,Larry Doby,Cleveland,32
+1953,Base on Balls,Eddie Yost,Washington,123
+1953,Home Runs,Al Rosen,Cleveland,43
+1954,Base on Balls,Ted Williams,Boston,136
+1954,Home Runs,Larry Doby,Cleveland,32
+1955,Base on Balls,Mickey Mantle,New York,113
+1955,Home Runs,Mickey Mantle,New York,37
+1956,Base on Balls,Eddie Yost,Washington,151
+1956,Home Runs,Mickey Mantle,New York,52
+1957,Base on Balls,Mickey Mantle,New York,146
+1957,Home Runs,Roy Sievers,Washington,42
+1958,Base on Balls,Mickey Mantle,New York,129
+1958,Home Runs,Mickey Mantle,New York,42
+1959,Base on Balls,Eddie Yost,Detroit,135
+1959,Home Runs,Rocky Colavito,Cleveland,42
+1960,Base on Balls,Eddie Yost,Detroit,125
+1960,Home Runs,Mickey Mantle,New York,40
+1961,Base on Balls,Mickey Mantle,New York,126
+1961,Home Runs,Roger Maris,New York,61
+1962,Base on Balls,Mickey Mantle,New York,122
+1962,Home Runs,Harmon Killebrew,Minnesota,48
+1963,Base on Balls,Carl Yastrzemski,Boston,95
+1963,Home Runs,Harmon Killebrew,Minnesota,45
+1964,Base on Balls,Norm Siebern,Baltimore,106
+1964,Home Runs,Harmon Killebrew,Minnesota,49
+1965,Base on Balls,Rocky Colavito,Cleveland,93
+1965,Home Runs,Tony Conigliaro,Boston,32
+1966,Base on Balls,Harmon Killebrew,Minnesota,103
+1966,Home Runs,Frank Robinson,Baltimore,49
+1967,Base on Balls,Harmon Killebrew,Minnesota,131
+1967,Home Runs,Harmon Killebrew,Minnesota,44
+1968,Base on Balls,Carl Yastrzemski,Boston,119
+1968,Home Runs,Frank Howard,Washington,44
+1969,Base on Balls,Harmon Killebrew,Minnesota,145
+1969,Home Runs,Harmon Killebrew,Minnesota,49
+1970,Base on Balls,Frank Howard,Washington,132
+1970,Home Runs,Frank Howard,Washington,44
+1971,Base on Balls,Harmon Killebrew,Minnesota,114
+1971,Home Runs,Bill Melton,Chicago,33
+1972,Base on Balls,Dick Allen,Chicago,99
+1972,Home Runs,Dick Allen,Chicago,37
+1973,Base on Balls,John Mayberry,Kansas City,122
+1973,Home Runs,Reggie Jackson,Oakland,32
+1974,Base on Balls,Gene Tenace,Oakland,110
+1974,Home Runs,Dick Allen,Chicago,32
+1975,Base on Balls,John Mayberry,Kansas City,119
+1975,Home Runs,Reggie Jackson,Oakland,36
+1976,Base on Balls,Mike Hargrove,Texas,97
+1976,Home Runs,Graig Nettles,New York,32
+1977,Base on Balls,Toby Harrah,Texas,109
+1977,Home Runs,Jim Rice,Boston,39
+1978,Base on Balls,Mike Hargrove,Texas,107
+1978,Home Runs,Jim Rice,Boston,46
+1979,Base on Balls,Darrell Porter,Kansas City,121
+1979,Home Runs,Gorman Thomas,Milwaukee,45
+1980,Base on Balls,Willie Randolph,New York,119
+1980,Home Runs,Ben Oglivie,Milwaukee,41
+1981,Base on Balls,Dwight Evans,Boston,85
+1981,Home Runs,Tony Armas,Oakland,22
+1982,Base on Balls,Rickey Henderson,Oakland,116
+1982,Home Runs,Reggie Jackson,California,39
+1983,Base on Balls,Rickey Henderson,Oakland,103
+1983,Home Runs,Jim Rice,Boston,39
+1984,Base on Balls,Eddie Murray,Baltimore,107
+1984,Home Runs,Tony Armas,Boston,43
+1985,Base on Balls,Dwight Evans,Boston,114
+1985,Home Runs,Darrell Evans,Detroit,40
+1986,Base on Balls,Wade Boggs,Boston,106
+1986,Home Runs,Jesse Barfield,Toronto,40
+1987,Base on Balls,Dwight Evans,Boston,106
+1987,Home Runs,Mark McGwire,Oakland,49
+1988,Base on Balls,Wade Boggs,Boston,125
+1988,Home Runs,Jose Canseco,Oakland,42
+1989,Home Runs,Fred McGriff,Toronto,36
+1990,Base on Balls,Mark McGwire,Oakland,110
+1990,Home Runs,Cecil Fielder,Detroit,51
+1991,Base on Balls,Frank Thomas,Chicago,138
+1991,Home Runs,Jose Canseco,Oakland,44
+1992,Home Runs,Juan Gonzalez,Texas,43
+1993,Base on Balls,Tony Phillips,Detroit,132
+1993,Home Runs,Juan Gonzalez,Texas,46
+1994,Base on Balls,Frank Thomas,Chicago,109
+1994,Home Runs,"Ken Griffey, Jr.",Seattle,40
+1995,Base on Balls,Frank Thomas,Chicago,136
+1995,Home Runs,Albert Belle,Cleveland,50
+1996,Base on Balls,Tony Phillips,Chicago,125
+1996,Home Runs,Mark McGwire,Oakland,52
+1997,Base on Balls,Jim Thome,Cleveland,120
+1997,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1998,Base on Balls,Rickey Henderson,Oakland,118
+1998,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1999,Base on Balls,Jim Thome,Cleveland,127
+1999,Home Runs,"Ken Griffey, Jr.",Seattle,48
+2000,Base on Balls,Jason Giambi,Oakland,137
+2000,Home Runs,Troy Glaus,Anaheim,47
+2001,Base on Balls,Jason Giambi,Oakland,129
+2001,Home Runs,Alex Rodriguez,Texas,52
+2002,Base on Balls,Jim Thome,Cleveland,122
+2002,Home Runs,Alex Rodriguez,Texas,57
+2003,Base on Balls,Jason Giambi,New York,129
+2003,Home Runs,Alex Rodriguez,Texas,47
+2004,Base on Balls,Eric Chavez,Oakland,95
+2004,Home Runs,Manny Ramirez,Boston,43
+2005,Base on Balls,Jason Giambi,New York,108
+2005,Home Runs,Alex Rodriguez,New York,48
+2006,Base on Balls,David Ortiz,Boston,119
+2006,Home Runs,David Ortiz,Boston,54
+2007,Base on Balls,David Ortiz,Boston,111
+2007,Home Runs,Alex Rodriguez,New York,54
+2008,Base on Balls,Jack Cust,Oakland,111
+2008,Home Runs,Miguel Cabrera,Detroit,37
+2009,Base on Balls,Chone Figgins,Los Angeles,101
+2009,Home Runs,Carlos Pena,Tampa Bay,39
+2010,Base on Balls,Daric Barton,Oakland,110
+2010,Home Runs,Jose Bautista,Toronto,54
+2011,Base on Balls,Jose Bautista,Toronto,132
+2011,Home Runs,Jose Bautista,Toronto,43
+2012,Base on Balls,Adam Dunn,Chicago,105
+2012,Home Runs,Miguel Cabrera,Detroit,44
+2013,Base on Balls,Mike Trout,Los Angeles,110
+2013,Home Runs,Chris Davis,Baltimore,53
+2014,Base on Balls,Carlos Santana,Cleveland,113
+2014,Home Runs,Nelson Cruz,Baltimore,40
+2015,Base on Balls,Jose Bautista,Toronto,110
+2015,Home Runs,Chris Davis,Baltimore,47
+2016,Base on Balls,Mike Trout,Los Angeles,116
+2016,Home Runs,Mark Trumbo,Baltimore,47
+2017,Base on Balls,Aaron Judge,New York Yankees,127
+2017,Home Runs,Aaron Judge,New York Yankees,52
+2018,Base on Balls,Mike Trout,Los Angeles Angels,122
+2018,Home Runs,Khris Davis,Oakland Athletics,48
+2019,Base on Balls,Alex Bregman,Houston Astros,119
+2019,Home Runs,Jorge Soler,Kansas City Royals,48
+2020,Base on Balls,Carlos Santana,Cleveland Indians,47
+2020,Home Runs,Luke Voit,New York Yankees,22
+2021,Base on Balls,Joey Gallo,Texas Rangers,111
+2021,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48
+2022,Base on Balls,Aaron Judge,New York Yankees,111
+2022,Home Runs,Aaron Judge,New York Yankees,62
+2023,Base on Balls,J.P. Crawford,Seattle Mariners,94
+2023,Home Runs,Shohei Ohtani,Los Angeles Angels,44
+2024,Base on Balls,Aaron Judge,New York,133
+2024,Home Runs,Aaron Judge,New York,58
+2025,Base on Balls,To Be Determined,--,--
+2025,Home Runs,To Be Determined,--,--
