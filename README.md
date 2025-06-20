@@ -56,3 +56,6 @@ An end-to-end project that scrapes historical Major League Baseball data and pre
 - Dash
 
 ---
+## Setup Instructions
+- Clone the Repository
+- Install Dependencies (requirements.txt)
