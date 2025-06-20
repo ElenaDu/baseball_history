@@ -60,5 +60,8 @@ An end-to-end project that scrapes historical Major League Baseball data and pre
 - Clone the Repository
 - Install Dependencies (requirements.txt)
 
+---
+## Screenshots
+
 ![Dashboard Screenshot](assets/dashboard1.png)
 ![Dashboard Screenshot](assets/dashboard2.png)
